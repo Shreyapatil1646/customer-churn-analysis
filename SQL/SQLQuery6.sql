@@ -1,3 +1,7 @@
+-- Project: Customer Churn Analysis
+-- Author: Shreya Patil
+-- Description: Cleaning data and creating final production table (prod_Churn)
+-- ============================================
 SELECT 
     Customer_ID,
 
